@@ -7,4 +7,4 @@ This tetris game was made in c# as suggested. It has all the features that origi
 Also there is speeding up feature.
 ![gameover](https://user-images.githubusercontent.com/60456879/158023489-7b4ad747-9d75-456a-b2a3-9f90cc8a2aeb.png)
 ![gamestart](https://user-images.githubusercontent.com/60456879/158023490-fc9cd713-a001-4562-bf4e-8fc043808bd6.png)
-#Reviews
+# Reviews
